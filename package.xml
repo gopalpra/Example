@@ -4,5 +4,9 @@
     <members>DeploymentToolCtrl</members>
     <name>ApexClass</name>
   </types>
+  <types>
+    <members>openPullRequestButton</members>
+    <name>LightningComponentBundle</name>
+  </types>
   <version>64.0</version>
 </Package>
